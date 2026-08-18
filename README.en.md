@@ -1,4 +1,8 @@
-<a href="README.en.md">🇺🇸 English</a> | <a href="README.md">🇧🇷 Português</a>
+<div align="right">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/PT--BR-Português-0969da?style=flat-square&labelColor=24292e" alt="Portuguese Version" />
+  </a>
+</div>
 
 # Hi, I'm Dani 👋
 
