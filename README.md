@@ -33,5 +33,5 @@ Movida pela resolução de problemas e pela lógica, dedico meus estudos à cons
 
 ### 📫 Onde me encontrar
 
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- **Email:** [seu-email@dominio.com](mailto:seu-email@dominio.com)
+- **LinkedIn:** [linkedin.com/in/danielafeitoza](https://www.linkedin.com/in/danielafeitoza/)
+- **Email:** [danielafeitozaa@gmail.com](mailto:danielafeitozaa@gmail.com)
