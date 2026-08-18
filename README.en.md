@@ -24,3 +24,9 @@ Driven by problem-solving and logical thinking, I focus my studies on building s
 ### 📊 Stats
 
 <!-- keep your stats image/widget here -->
+
+
+### 📍 Find me on
+
+- **LinkedIn:** [linkedin.com/in/danielafeitoza](https://linkedin.com/in/danielafeitoza)
+- **Email:** [danielafeitozaa@gmail.com](mailto:danielafeitozaa@gmail.com)
