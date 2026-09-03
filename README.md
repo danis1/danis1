@@ -17,24 +17,24 @@ Movida pela resolução de problemas e pela lógica, dedico meus estudos à cons
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-
 **Uso com maior frequência:**
+
 <p align="left">
-  <img src="./assets/java.svg" alt="Java" height="36" />
-  <img src="./assets/csharp.svg" alt="C#" height="36" />
-  <img src="./assets/html5.svg" alt="HTML5" height="36" />
-  <img src="./assets/css3.svg" alt="CSS3" height="36" />
-  <img src="./assets/javascript.svg" alt="JavaScript" height="36" />
-  <img src="./assets/sqlite.svg" alt="SQLite" height="36" />
-  <img src="./assets/vscode.svg" alt="VS Code" height="36" />
+  <img src="./badges/java.svg" alt="Java" height="30" />
+  <img src="./badges/csharp.svg" alt="C#" height="30" />
+  <img src="./badges/html5.svg" alt="HTML5" height="30" />
+  <img src="./badges/css3.svg" alt="CSS3" height="30" />
+  <img src="./badges/javascript.svg" alt="JavaScript" height="30" />
+  <img src="./badges/sqlite.svg" alt="SQLite" height="30" />
+  <img src="./badges/vscode.svg" alt="VS Code" height="30" />
 </p>
 
 **Aprendendo / Aprofundando:**
+
 <p align="left">
-  <img src="./assets/python.svg" alt="Python" height="36" />
-  <img src="./assets/powerbi.svg" alt="Power BI" height="36" />
-  <img src="./assets/intellij.svg" alt="IntelliJ" height="36" />
+  <img src="./badges/python.svg" alt="Python" height="30" />
+  <img src="./badges/powerbi.svg" alt="Power BI" height="30" />
+  <img src="./badges/intellij.svg" alt="IntelliJ" height="30" />
 </p>
 
 ---
