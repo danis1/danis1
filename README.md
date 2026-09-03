@@ -15,7 +15,15 @@ Movida pela resolução de problemas e pela lógica, dedico meus estudos à cons
 
 **Uso com maior frequência:**
 
-<img src="badges/java.svg" height="35" alt="Java" /> <img src="badges/javascript.svg" height="35" alt="JavaScript" /> <img src="badges/csharp.svg" height="35" alt="C#" /> <img src="badges/html5.svg" height="35" alt="HTML5" /> <img src="badges/css3.svg" height="35" alt="CSS3" /> <img src="badges/sqlite.svg" height="35" alt="SQLite" /> <img src="badges/vscode.svg" height="35" alt="VS Code" />
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&custom_title=Tecnologias&theme=dark&bg_color=0d1117&border_color=30363d&title_color=f0f6fc&text_color=c9d1d9&card_width=950&hide_border=false" alt="Tecnologias" />
+</p>
+
+---
 
 **Aprendendo / Aprofundando:**
 
