@@ -20,9 +20,8 @@ Movida pela resolução de problemas e pela lógica, dedico meus estudos à cons
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=danis1&custom_title=Tecnologias&theme=dark&bg_color=0d1117&border_color=30363d&title_color=f0f6fc&text_color=c9d1d9" alt="Tecnologias" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=danis1&custom_title=Tecnologias&theme=dark&bg_color=0d1117&border_color=30363d&title_color=f0f6fc&text_color=c9d1d9&layout=compact" alt="Tecnologias" />
 </p>
-
 ---
 
 **Aprendendo / Aprofundando:**
