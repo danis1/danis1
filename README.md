@@ -8,14 +8,12 @@
 
 Estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na **Fatec Praia Grande**, sou Designer em transição de carreira para a área de desenvolvimento.
 
-Movida pela resolução de problemas e pela lógica, dedico meus estudos à construção de sistemas estruturados, eficientes e de código limpo. Aplico os fundamentos de programação e arquitetura de software com o suporte da minha bagagem prévia em design, garantindo que as soluções técnicas entreguem funcionalidade real com boa usabilidade.
+Hoje dedico meus estudos à construção de sistemas aplicando fundamentos de programação e arquitetura de software com o suporte da minha bagagem prévia em design, garantindo que as soluções técnicas entreguem funcionalidade real com boa usabilidade.
 
 
 ### 🛠️ Tecnologias & Ferramentas
 
-**Uso com maior frequência:**
 
----
 
 **Uso com maior frequência:**
 
