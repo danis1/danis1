@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="97" height="32" viewBox="0 0 97 32" role="img" aria-label="HTML5">
   <title>HTML5</title>
-  <rect width="97" height="32" rx="16" fill="#E34F26"/>
+  <rect width="97" height="32" rx="4" fill="#E34F26"/>
   <path d="M 13,8 l 14,0 l -1.27333333333,14.3753333333 L 19.9846666667,24 l -5.70933333333,-1.62533333333 L 13,8 z m 4.68733333333,6.5 l -0.154666666667,-1.812 l 6.706,0.002 l 0.153333333333,-1.748 L 15.608,10.94 l 0.465333333333,5.34 l 6.084,0 l -0.217333333333,2.284 l -1.94,0.536 l -1.97,-0.54 l -0.125333333333,-1.40666666667 L 16.1653333333,17.1533333333 l 0.22,2.78066666667 L 20,20.9006666667 l 3.586,-0.962 l 0.496,-5.438 L 17.6873333333,14.5006666667 z" fill="#fff"/>
   <text x="36" y="20.5" fill="#fff" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600">HTML5</text>
 </svg>
