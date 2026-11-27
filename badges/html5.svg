@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 35"><defs><style>.cls-1{fill:#1f2937;}.cls-2{fill:#e34f26;}.cls-3{isolation:isolate;font-size:13px;fill:#fff;font-family:Verdana-Bold, Verdana;font-weight:700;letter-spacing:0.04em;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><rect class="cls-1" width="150" height="35" rx="6"/><path class="cls-2" d="M37.94,10H51.06L49.87,23.48,44.48,25l-5.35-1.52Zm4.39,6.09-.14-1.69h6.28l.15-1.64H40.38l.44,5h5.7l-.2,2.14-1.82.51-1.85-.51-.12-1.32H40.9l.21,2.61,3.39.9,3.36-.9.47-5.1Z"/><text class="cls-3" transform="translate(60 21.14)">HTML5</text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="105" height="32" viewBox="0 0 105 32" role="img" aria-label="HTML5">
+  <title>HTML5</title>
+  <rect x="0.5" y="0.5" width="104" height="31" rx="15.5" fill="#161b22" stroke="#30363d"/>
+  <path d="M 13.0026666667,8 L 26.9973333333,8 L 25.728,22.3786666667 L 19.9786666667,24 l -5.70666666667,-1.62133333333 Z m 4.68266666667,6.496 l -0.149333333333,-1.80266666667 l 6.69866666667,0 l 0.16,-1.74933333333 L 15.6053333333,10.944 l 0.469333333333,5.33333333333 l 6.08,0 l -0.213333333333,2.28266666667 l -1.94133333333,0.544 l -1.97333333333,-0.544 l -0.128,-1.408 L 16.16,17.152 l 0.224,2.784 l 3.616,0.96 l 3.584,-0.96 l 0.501333333333,-5.44 Z" fill="#e34f26"/>
+  <text x="36" y="20.5" fill="#f0f6fc" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600">HTML5</text>
+</svg>
