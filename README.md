@@ -1,7 +1,5 @@
 <div align="right">
-  <a href="./README.en.md">
-    <img src="https://img.shields.io/badge/EN-English-0969da?style=flat-square&labelColor=24292e" alt="English Version" />
-  </a>
+  <a href="./README.en.md"><img src="./badges/lang-en.svg" alt="Read in English" height="32" /></a>
 </div>
 
 <div align="center">
