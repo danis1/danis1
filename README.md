@@ -21,7 +21,7 @@ Estudante de Desenvolvimento de Software Multiplataforma (DSM) · Fatec Praia Gr
 
 ### 👩‍💻 Sobre mim
 
-Sou designer em transição de carreira para o desenvolvimento de software. Hoje estudo principalmente **back-end com Java e Spring Boot**, **Python** e **bancos de dados relacionais e NoSQL**.
+Sou designer em transição de carreira e estou no início da jornada como desenvolvedora. Uso o GitHub para registrar o que aprendo nas aulas e nos projetos em equipe da faculdade, principalmente com Java e banco de dados.
 
 Minha experiência anterior com design me ajuda a pensar no sistema a partir de quem vai usá-lo: além de funcionar, ele tem que ser fácil de entender.
 
@@ -29,32 +29,30 @@ Minha experiência anterior com design me ajuda a pensar no sistema a partir de 
 
 ### 🛠️ Tecnologias
 
-<p align="center">
+**Uso com mais frequência:** Java · HTML5 · CSS3 · JavaScript · MySQL · VS Code · IntelliJ
+
+<p align="left">
   <img src="./badges/java.svg" alt="Java" height="32" />
+  <img src="./badges/html5.svg" alt="HTML5" height="32" />
+  <img src="./badges/css3.svg" alt="CSS3" height="32" />
+  <img src="./badges/javascript.svg" alt="JavaScript" height="32" />
+  <img src="./badges/mysql.svg" alt="MySQL" height="32" />
+  <img src="./badges/vscode.svg" alt="VS Code" height="32" />
+  <img src="./badges/intellij.svg" alt="IntelliJ" height="32" />
+</p>
+
+**Estudando (aulas e projetos da faculdade):** Spring Boot · Python · Django · PHP · Redis · C# · SQLite · Power BI
+
+<p align="left">
   <img src="./badges/springboot.svg" alt="Spring Boot" height="32" />
   <img src="./badges/python.svg" alt="Python" height="32" />
   <img src="./badges/django.svg" alt="Django" height="32" />
   <img src="./badges/php.svg" alt="PHP" height="32" />
-  <img src="./badges/javascript.svg" alt="JavaScript" height="32" />
-  <img src="./badges/csharp.svg" alt="C#" height="32" />
-  <img src="./badges/html5.svg" alt="HTML5" height="32" />
-  <img src="./badges/css3.svg" alt="CSS3" height="32" />
-  <br/>
-  <img src="./badges/mysql.svg" alt="MySQL" height="32" />
-  <img src="./badges/sqlite.svg" alt="SQLite" height="32" />
   <img src="./badges/redis.svg" alt="Redis" height="32" />
-  <img src="./badges/intellij.svg" alt="IntelliJ" height="32" />
-  <img src="./badges/vscode.svg" alt="VS Code" height="32" />
+  <img src="./badges/csharp.svg" alt="C#" height="32" />
+  <img src="./badges/sqlite.svg" alt="SQLite" height="32" />
   <img src="./badges/powerbi.svg" alt="Power BI" height="32" />
 </p>
-
-<table>
-  <tr><td><b>Linguagens</b></td><td>Java · Python · PHP · JavaScript · C# · HTML5 · CSS3 · SQL</td></tr>
-  <tr><td><b>Frameworks</b></td><td>Spring Boot · Spring Web · Django</td></tr>
-  <tr><td><b>Bancos de dados</b></td><td>MySQL · SQLite · Oracle (PL/SQL) · Redis · MongoDB · Cassandra</td></tr>
-  <tr><td><b>Conceitos</b></td><td>POO · APIs REST · JDBC · Streams e Lambdas · Estruturas de Dados</td></tr>
-  <tr><td><b>Ferramentas</b></td><td>GitHub · VS Code · IntelliJ IDEA · Power BI</td></tr>
-</table>
 
 ---
 
