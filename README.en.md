@@ -12,6 +12,7 @@ Multiplatform Software Development (DSM) student · Fatec Praia Grande, Brazil
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=480&lines=Back-end+with+Java+and+Spring+Boot;Python+%7C+Django+%7C+Redis;Design+%2B+Development" alt="Java, Spring Boot, Python, Django, Redis" />
 
 <a href="https://www.linkedin.com/in/danielafeitoza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.behance.net/danielafeitoza"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
 <a href="mailto:danielafeitozaa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/danis1?tab=repositories"><img src="https://img.shields.io/badge/All_repositories-24292e?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
 
@@ -21,9 +22,9 @@ Multiplatform Software Development (DSM) student · Fatec Praia Grande, Brazil
 
 ### 👩‍💻 About me
 
-I'm a designer moving into software development, and I'm at the beginning of my journey as a developer. I use GitHub to keep track of what I learn in classes and in team projects at college, mostly with Java and databases.
+I'm a designer who is also studying software development. I'm at the beginning of this journey, and I use GitHub to keep track of what I learn in classes and in team projects at college, mostly with Java and databases.
 
-My design background helps me think about a system from the user's side: on top of working, it has to be easy to understand.
+Bringing both areas together helps me think about a system from the user's side: on top of working, it has to be easy to understand.
 
 ---
 
@@ -101,4 +102,5 @@ My repositories also include many **Java** exercises (OOP, JDBC, Streams/Lambdas
 ### 📫 Contact
 
 - **LinkedIn:** [linkedin.com/in/danielafeitoza](https://www.linkedin.com/in/danielafeitoza/)
+- **Behance (Design portfolio):** [behance.net/danielafeitoza](https://www.behance.net/danielafeitoza)
 - **Email:** [danielafeitozaa@gmail.com](mailto:danielafeitozaa@gmail.com)
