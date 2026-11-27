@@ -4,9 +4,24 @@
   </a>
 </div>
 
+<div align="center">
+
 # Olá, eu sou a Dani 👋
 
-**Daniela Feitoza Alves** · Estudante de Desenvolvimento de Software Multiplataforma (DSM) na Fatec Praia Grande
+**Daniela Feitoza Alves**<br/>
+Estudante de Desenvolvimento de Software Multiplataforma (DSM) · Fatec Praia Grande
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=480&lines=Back-end+com+Java+e+Spring+Boot;Python+%7C+Django+%7C+Redis;Design+%2B+Desenvolvimento" alt="Java, Spring Boot, Python, Django, Redis" />
+
+<a href="https://www.linkedin.com/in/danielafeitoza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:danielafeitozaa@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/danis1?tab=repositories"><img src="https://img.shields.io/badge/Todos_os_reposit%C3%B3rios-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Todos os repositórios" /></a>
+
+</div>
+
+---
+
+### 👩‍💻 Sobre mim
 
 Sou designer em transição de carreira para o desenvolvimento de software. Hoje estudo principalmente **back-end com Java e Spring Boot**, **Python** e **bancos de dados relacionais e NoSQL**.
 
@@ -16,13 +31,7 @@ Minha experiência anterior com design me ajuda a pensar no sistema a partir de 
 
 ### 🛠️ Tecnologias
 
-**Linguagens:** Java · Python · PHP · JavaScript · C# · HTML5 · CSS3 · SQL
-**Frameworks e bibliotecas:** Spring Boot · Spring Web · Thymeleaf · Django
-**Bancos de dados:** MySQL · SQLite · Oracle (PL/SQL) · Redis · MongoDB · Cassandra
-**Conceitos:** Programação Orientada a Objetos · APIs REST · JDBC · Streams e Lambdas · Estruturas de Dados
-**Ferramentas:** Git · GitHub · VS Code · IntelliJ IDEA · Power BI
-
-<p align="left">
+<p align="center">
   <img src="./badges/java.svg" alt="Java" height="30" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" height="30" />
   <img src="./badges/python.svg" alt="Python" height="30" />
@@ -32,6 +41,7 @@ Minha experiência anterior com design me ajuda a pensar no sistema a partir de 
   <img src="./badges/csharp.svg" alt="C#" height="30" />
   <img src="./badges/html5.svg" alt="HTML5" height="30" />
   <img src="./badges/css3.svg" alt="CSS3" height="30" />
+  <br/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30" />
   <img src="./badges/sqlite.svg" alt="SQLite" height="30" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" height="30" />
@@ -41,14 +51,45 @@ Minha experiência anterior com design me ajuda a pensar no sistema a partir de 
   <img src="./badges/powerbi.svg" alt="Power BI" height="30" />
 </p>
 
+<table>
+  <tr><td><b>Linguagens</b></td><td>Java · Python · PHP · JavaScript · C# · HTML5 · CSS3 · SQL</td></tr>
+  <tr><td><b>Frameworks</b></td><td>Spring Boot · Spring Web · Thymeleaf · Django</td></tr>
+  <tr><td><b>Bancos de dados</b></td><td>MySQL · SQLite · Oracle (PL/SQL) · Redis · MongoDB · Cassandra</td></tr>
+  <tr><td><b>Conceitos</b></td><td>POO · APIs REST · JDBC · Streams e Lambdas · Estruturas de Dados</td></tr>
+  <tr><td><b>Ferramentas</b></td><td>Git · GitHub · VS Code · IntelliJ IDEA · Power BI</td></tr>
+</table>
+
 ---
 
 ### 📂 Projetos em destaque
 
-- **[Gráfica – Projeto Django](https://github.com/danis1/django-prisma-trabalho-final)**: site de uma gráfica fictícia feito em Python e Django. Foi o projeto final da disciplina WEB III, desenvolvido em equipe.
-- **[AlfandeNew – Back-end](https://github.com/danis1/python-redis-alfandenew-backend)**: API em Python com Redis para um sistema de controle de tráfego marítimo, com CRUD de registros e trajetos.
-- **[API de Biblioteca](https://github.com/danis1/java-spring-web-biblioteca)**: API REST em Java com Spring Boot.
-- **[Já Leu Esse?](https://github.com/danis1/site-ja-leu-esse)**: plataforma de troca de livros em PHP e MySQL, feita em equipe.
+<table>
+  <tr><th>Projeto</th><th>Descrição</th><th>Stack</th><th></th></tr>
+  <tr>
+    <td><b>Gráfica – Projeto Django</b></td>
+    <td>Site de uma gráfica fictícia. Projeto final da disciplina WEB III, feito em equipe.</td>
+    <td>Python · Django</td>
+    <td align="center"><a href="https://github.com/danis1/django-prisma-trabalho-final"><img src="https://img.shields.io/badge/Ver_c%C3%B3digo-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Ver código" /></a></td>
+  </tr>
+  <tr>
+    <td><b>AlfandeNew – Back-end</b></td>
+    <td>API para controle de tráfego marítimo, com CRUD de registros e trajetos.</td>
+    <td>Python · Redis</td>
+    <td align="center"><a href="https://github.com/danis1/python-redis-alfandenew-backend"><img src="https://img.shields.io/badge/Ver_c%C3%B3digo-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Ver código" /></a></td>
+  </tr>
+  <tr>
+    <td><b>API de Biblioteca</b></td>
+    <td>API REST de biblioteca.</td>
+    <td>Java · Spring Boot</td>
+    <td align="center"><a href="https://github.com/danis1/java-spring-web-biblioteca"><img src="https://img.shields.io/badge/Ver_c%C3%B3digo-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Ver código" /></a></td>
+  </tr>
+  <tr>
+    <td><b>Já Leu Esse?</b></td>
+    <td>Plataforma de troca de livros, feita em equipe.</td>
+    <td>PHP · MySQL</td>
+    <td align="center"><a href="https://github.com/danis1/site-ja-leu-esse"><img src="https://img.shields.io/badge/Ver_c%C3%B3digo-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Ver código" /></a></td>
+  </tr>
+</table>
 
 Também tenho vários exercícios de **Java** (POO, JDBC, Streams/Lambdas, consumo de APIs) e **Python** nos meus repositórios.
 
