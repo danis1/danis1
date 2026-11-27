@@ -43,7 +43,6 @@ My design background helps me think about a system from the user's side: on top 
   <img src="./badges/mysql.svg" alt="MySQL" height="32" />
   <img src="./badges/sqlite.svg" alt="SQLite" height="32" />
   <img src="./badges/redis.svg" alt="Redis" height="32" />
-  <img src="./badges/git.svg" alt="Git" height="32" />
   <img src="./badges/intellij.svg" alt="IntelliJ" height="32" />
   <img src="./badges/vscode.svg" alt="VS Code" height="32" />
   <img src="./badges/powerbi.svg" alt="Power BI" height="32" />
@@ -51,10 +50,10 @@ My design background helps me think about a system from the user's side: on top 
 
 <table>
   <tr><td><b>Languages</b></td><td>Java · Python · PHP · JavaScript · C# · HTML5 · CSS3 · SQL</td></tr>
-  <tr><td><b>Frameworks</b></td><td>Spring Boot · Spring Web · Thymeleaf · Django</td></tr>
+  <tr><td><b>Frameworks</b></td><td>Spring Boot · Spring Web · Django</td></tr>
   <tr><td><b>Databases</b></td><td>MySQL · SQLite · Oracle (PL/SQL) · Redis · MongoDB · Cassandra</td></tr>
   <tr><td><b>Concepts</b></td><td>OOP · REST APIs · JDBC · Streams & Lambdas · Data Structures</td></tr>
-  <tr><td><b>Tools</b></td><td>Git · GitHub · VS Code · IntelliJ IDEA · Power BI</td></tr>
+  <tr><td><b>Tools</b></td><td>GitHub · VS Code · IntelliJ IDEA · Power BI</td></tr>
 </table>
 
 ---

@@ -43,7 +43,6 @@ Minha experiência anterior com design me ajuda a pensar no sistema a partir de 
   <img src="./badges/mysql.svg" alt="MySQL" height="32" />
   <img src="./badges/sqlite.svg" alt="SQLite" height="32" />
   <img src="./badges/redis.svg" alt="Redis" height="32" />
-  <img src="./badges/git.svg" alt="Git" height="32" />
   <img src="./badges/intellij.svg" alt="IntelliJ" height="32" />
   <img src="./badges/vscode.svg" alt="VS Code" height="32" />
   <img src="./badges/powerbi.svg" alt="Power BI" height="32" />
@@ -51,10 +50,10 @@ Minha experiência anterior com design me ajuda a pensar no sistema a partir de 
 
 <table>
   <tr><td><b>Linguagens</b></td><td>Java · Python · PHP · JavaScript · C# · HTML5 · CSS3 · SQL</td></tr>
-  <tr><td><b>Frameworks</b></td><td>Spring Boot · Spring Web · Thymeleaf · Django</td></tr>
+  <tr><td><b>Frameworks</b></td><td>Spring Boot · Spring Web · Django</td></tr>
   <tr><td><b>Bancos de dados</b></td><td>MySQL · SQLite · Oracle (PL/SQL) · Redis · MongoDB · Cassandra</td></tr>
   <tr><td><b>Conceitos</b></td><td>POO · APIs REST · JDBC · Streams e Lambdas · Estruturas de Dados</td></tr>
-  <tr><td><b>Ferramentas</b></td><td>Git · GitHub · VS Code · IntelliJ IDEA · Power BI</td></tr>
+  <tr><td><b>Ferramentas</b></td><td>GitHub · VS Code · IntelliJ IDEA · Power BI</td></tr>
 </table>
 
 ---
